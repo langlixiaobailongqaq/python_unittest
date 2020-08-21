@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Projects/Fishing script/.idea/Fishing script.iml" filepath="$PROJECT_DIR$/../Projects/Fishing script/.idea/Fishing script.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FishingScript/.idea/FishingScript.iml" filepath="$PROJECT_DIR$/../FishingScript/.idea/FishingScript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python/.idea/Python.iml" filepath="$PROJECT_DIR$/../Python/.idea/Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestDemoAir/.idea/demoAir.iml" filepath="$PROJECT_DIR$/../TestDemoAir/.idea/demoAir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jenkins/.idea/jenkins.iml" filepath="$PROJECT_DIR$/../jenkins/.idea/jenkins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python-selenium/.idea/python-selenium.iml" filepath="$PROJECT_DIR$/../python-selenium/.idea/python-selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/unittest.iml" filepath="$PROJECT_DIR$/.idea/unittest.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/unittest script/.idea/unittest script.iml" filepath="$USER_HOME$/Desktop/unittest script/.idea/unittest script.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../untitled/.idea/untitled1.iml" filepath="$PROJECT_DIR$/../../untitled/.idea/untitled1.iml" />
+    </modules>
+  </component>
+</project>

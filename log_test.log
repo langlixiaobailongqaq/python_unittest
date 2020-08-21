@@ -1,0 +1,40 @@
+Thu, 16 May 2019 14:07:38 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:58447/session {"desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "goog:chromeOptions": {"args": [], "extensions": []}}, "capabilities": {"alwaysMatch": {"browserName": "chrome", "goog:chromeOptions": {"args": [], "extensions": []}, "platformName": "any"}, "firstMatch": [{}]}}
+Thu, 16 May 2019 14:07:38 connectionpool.py[line:205] DEBUG Starting new HTTP connection (1): 127.0.0.1:58447
+Thu, 16 May 2019 14:07:39 connectionpool.py[line:393] DEBUG http://127.0.0.1:58447 "POST /session HTTP/1.1" 200 999
+Thu, 16 May 2019 14:07:39 remote_connection.py[line:440] DEBUG Finished Request
+Thu, 16 May 2019 14:07:39 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:58447/session/3f7c093e5d82171f4d26b7c542387cd6/timeouts/implicit_wait {"ms": 10000.0, "sessionId": "3f7c093e5d82171f4d26b7c542387cd6"}
+Thu, 16 May 2019 14:07:39 connectionpool.py[line:393] DEBUG http://127.0.0.1:58447 "POST /session/3f7c093e5d82171f4d26b7c542387cd6/timeouts/implicit_wait HTTP/1.1" 200 72
+Thu, 16 May 2019 14:07:39 remote_connection.py[line:440] DEBUG Finished Request
+Thu, 16 May 2019 14:07:39 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:58447/session/3f7c093e5d82171f4d26b7c542387cd6/url {"url": "http://www.baidu.com/", "sessionId": "3f7c093e5d82171f4d26b7c542387cd6"}
+Thu, 16 May 2019 14:07:40 connectionpool.py[line:393] DEBUG http://127.0.0.1:58447 "POST /session/3f7c093e5d82171f4d26b7c542387cd6/url HTTP/1.1" 200 72
+Thu, 16 May 2019 14:07:40 remote_connection.py[line:440] DEBUG Finished Request
+Thu, 16 May 2019 14:07:40 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:58447/session/3f7c093e5d82171f4d26b7c542387cd6/element {"sessionId": "3f7c093e5d82171f4d26b7c542387cd6", "using": "id", "value": "kw"}
+Thu, 16 May 2019 14:07:40 connectionpool.py[line:393] DEBUG http://127.0.0.1:58447 "POST /session/3f7c093e5d82171f4d26b7c542387cd6/element HTTP/1.1" 200 102
+Thu, 16 May 2019 14:07:40 remote_connection.py[line:440] DEBUG Finished Request
+Thu, 16 May 2019 14:07:40 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:58447/session/3f7c093e5d82171f4d26b7c542387cd6/element/0.9700428926930602-1/clear {"sessionId": "3f7c093e5d82171f4d26b7c542387cd6", "id": "0.9700428926930602-1"}
+Thu, 16 May 2019 14:07:40 connectionpool.py[line:393] DEBUG http://127.0.0.1:58447 "POST /session/3f7c093e5d82171f4d26b7c542387cd6/element/0.9700428926930602-1/clear HTTP/1.1" 200 72
+Thu, 16 May 2019 14:07:40 remote_connection.py[line:440] DEBUG Finished Request
+Thu, 16 May 2019 14:07:40 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:58447/session/3f7c093e5d82171f4d26b7c542387cd6/element {"sessionId": "3f7c093e5d82171f4d26b7c542387cd6", "using": "id", "value": "kw"}
+Thu, 16 May 2019 14:07:40 connectionpool.py[line:393] DEBUG http://127.0.0.1:58447 "POST /session/3f7c093e5d82171f4d26b7c542387cd6/element HTTP/1.1" 200 102
+Thu, 16 May 2019 14:07:40 remote_connection.py[line:440] DEBUG Finished Request
+Thu, 16 May 2019 14:07:40 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:58447/session/3f7c093e5d82171f4d26b7c542387cd6/element/0.9700428926930602-1/value {"text": "Selenium\u81ea\u5b66\u7f51", "sessionId": "3f7c093e5d82171f4d26b7c542387cd6", "value": ["S", "e", "l", "e", "n", "i", "u", "m", "\u81ea", "\u5b66", "\u7f51"], "id": "0.9700428926930602-1"}
+Thu, 16 May 2019 14:07:40 connectionpool.py[line:393] DEBUG http://127.0.0.1:58447 "POST /session/3f7c093e5d82171f4d26b7c542387cd6/element/0.9700428926930602-1/value HTTP/1.1" 200 72
+Thu, 16 May 2019 14:07:40 remote_connection.py[line:440] DEBUG Finished Request
+Thu, 16 May 2019 14:07:40 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:58447/session/3f7c093e5d82171f4d26b7c542387cd6/element {"sessionId": "3f7c093e5d82171f4d26b7c542387cd6", "using": "id", "value": "su"}
+Thu, 16 May 2019 14:07:40 connectionpool.py[line:393] DEBUG http://127.0.0.1:58447 "POST /session/3f7c093e5d82171f4d26b7c542387cd6/element HTTP/1.1" 200 102
+Thu, 16 May 2019 14:07:40 remote_connection.py[line:440] DEBUG Finished Request
+Thu, 16 May 2019 14:07:40 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:58447/session/3f7c093e5d82171f4d26b7c542387cd6/element/0.9700428926930602-2/click {"sessionId": "3f7c093e5d82171f4d26b7c542387cd6", "id": "0.9700428926930602-2"}
+Thu, 16 May 2019 14:07:40 connectionpool.py[line:393] DEBUG http://127.0.0.1:58447 "POST /session/3f7c093e5d82171f4d26b7c542387cd6/element/0.9700428926930602-2/click HTTP/1.1" 200 72
+Thu, 16 May 2019 14:07:40 remote_connection.py[line:440] DEBUG Finished Request
+Thu, 16 May 2019 14:07:43 remote_connection.py[line:388] DEBUG GET http://127.0.0.1:58447/session/3f7c093e5d82171f4d26b7c542387cd6/title {"sessionId": "3f7c093e5d82171f4d26b7c542387cd6"}
+Thu, 16 May 2019 14:07:43 connectionpool.py[line:393] DEBUG http://127.0.0.1:58447 "GET /session/3f7c093e5d82171f4d26b7c542387cd6/title HTTP/1.1" 200 100
+Thu, 16 May 2019 14:07:43 remote_connection.py[line:440] DEBUG Finished Request
+Thu, 16 May 2019 14:07:43 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:58447/session/3f7c093e5d82171f4d26b7c542387cd6/element {"sessionId": "3f7c093e5d82171f4d26b7c542387cd6", "using": "partial link text", "value": "Selenium\u81ea\u52a8\u5316"}
+Thu, 16 May 2019 14:07:43 connectionpool.py[line:393] DEBUG http://127.0.0.1:58447 "POST /session/3f7c093e5d82171f4d26b7c542387cd6/element HTTP/1.1" 200 102
+Thu, 16 May 2019 14:07:43 remote_connection.py[line:440] DEBUG Finished Request
+Thu, 16 May 2019 14:07:43 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:58447/session/3f7c093e5d82171f4d26b7c542387cd6/element/0.9700428926930602-3/click {"sessionId": "3f7c093e5d82171f4d26b7c542387cd6", "id": "0.9700428926930602-3"}
+Thu, 16 May 2019 14:07:43 connectionpool.py[line:393] DEBUG http://127.0.0.1:58447 "POST /session/3f7c093e5d82171f4d26b7c542387cd6/element/0.9700428926930602-3/click HTTP/1.1" 200 72
+Thu, 16 May 2019 14:07:43 remote_connection.py[line:440] DEBUG Finished Request
+Thu, 16 May 2019 14:07:48 remote_connection.py[line:388] DEBUG DELETE http://127.0.0.1:58447/session/3f7c093e5d82171f4d26b7c542387cd6 {"sessionId": "3f7c093e5d82171f4d26b7c542387cd6"}
+Thu, 16 May 2019 14:07:48 connectionpool.py[line:393] DEBUG http://127.0.0.1:58447 "DELETE /session/3f7c093e5d82171f4d26b7c542387cd6 HTTP/1.1" 200 72
+Thu, 16 May 2019 14:07:48 remote_connection.py[line:440] DEBUG Finished Request
